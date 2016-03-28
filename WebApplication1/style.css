@@ -1,0 +1,19 @@
+﻿ body form>textarea{ 
+            color:blue;
+            background-color:tomato;
+            }
+ #r4{
+     margin:100px;
+     background-color: yellow;
+ }
+
+ #nume{
+     padding:100px;
+     margin:20px;
+     border:10px;
+     border-color:black;
+ }
+
+ body{
+     background-color:cadetblue;
+ }
